@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anuragdev03.github.io/csb-wqmei/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://anuragdev03.github.io/csb-wqmei/static/js/main.d85081cb.chunk.js",
+    "main.js.map": "https://anuragdev03.github.io/csb-wqmei/static/js/main.d85081cb.chunk.js.map",
+    "runtime-main.js": "https://anuragdev03.github.io/csb-wqmei/static/js/runtime-main.15ada60f.js",
+    "runtime-main.js.map": "https://anuragdev03.github.io/csb-wqmei/static/js/runtime-main.15ada60f.js.map",
+    "static/js/2.23032e1c.chunk.js": "https://anuragdev03.github.io/csb-wqmei/static/js/2.23032e1c.chunk.js",
+    "static/js/2.23032e1c.chunk.js.map": "https://anuragdev03.github.io/csb-wqmei/static/js/2.23032e1c.chunk.js.map",
+    "index.html": "https://anuragdev03.github.io/csb-wqmei/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://anuragdev03.github.io/csb-wqmei/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.23032e1c.chunk.js.LICENSE.txt": "https://anuragdev03.github.io/csb-wqmei/static/js/2.23032e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15ada60f.js",
+    "static/js/2.23032e1c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d85081cb.chunk.js"
+  ]
+}
